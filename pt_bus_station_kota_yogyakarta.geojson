@@ -1,0 +1,326 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-15T10:35:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898652323",
+        "amenity": "bus_station",
+        "name": "Garasi Bus KARYA JASA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3617396,
+          -7.8234342
+        ]
+      },
+      "id": "node/2898652323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3625644278",
+        "alt_name": "Cik Di Tiro 2",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "RS dr. Yap",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3752069,
+          -7.7812107
+        ]
+      },
+      "id": "node/3625644278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3625948887",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "E",
+        "name": "Gembira Loka",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3987743,
+          -7.8022539
+        ]
+      },
+      "id": "node/3625948887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3628552770",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Mangkubumi 1",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3668419,
+          -7.7847574
+        ]
+      },
+      "id": "node/3628552770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3628552772",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Mangkubumi 2",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3664799,
+          -7.7876631
+        ]
+      },
+      "id": "node/3628552772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3628566582",
+        "alt_name": "Halte Malioboro 1 (Inna Garuda)",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Malioboro 1",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3660791,
+          -7.7908276
+        ]
+      },
+      "id": "node/3628566582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3628566584",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Malioboro 2",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.365528,
+          -7.795218
+        ]
+      },
+      "id": "node/3628566584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3628566586",
+        "alt_name": "Sudirman 1",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Bethesda",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3779908,
+          -7.7829998
+        ]
+      },
+      "id": "node/3628566586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3630425830",
+        "amenity": "bus_station",
+        "name": "Parkir Bus Wisata",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3687437,
+          -7.8017779
+        ]
+      },
+      "id": "node/3630425830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3631487237",
+        "alt_name": "Sudirman (Bumiputera)",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Jalan Jend. Sudirman (S)",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695465,
+          -7.782936
+        ]
+      },
+      "id": "node/3631487237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3631487240",
+        "alt_name": "Sudirman (Santika)",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "backward",
+        "name": "Jalan Jend. Sudirman (U)",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.368831,
+          -7.7829274
+        ]
+      },
+      "id": "node/3631487240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3632596975",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Diponegoro",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3625563,
+          -7.7828719
+        ]
+      },
+      "id": "node/3632596975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411474814",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "W",
+        "name": "Gedung Juang 45",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3999686,
+          -7.8022694
+        ]
+      },
+      "id": "node/5411474814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12509416553",
+        "alt_name": "Cik Di Tiro 1",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "Cik Di Tiro",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3750962,
+          -7.7823259
+        ]
+      },
+      "id": "node/12509416553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12744176901",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Cititrans Shuttle",
+        "network": "Cititrans",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3865566,
+          -7.7829749
+        ]
+      },
+      "id": "node/12744176901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13099710185",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "direction": "forward",
+        "name": "LPP",
+        "network": "Trans Jogja",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3861351,
+          -7.7830789
+        ]
+      },
+      "id": "node/13099710185"
+    }
+  ]
+}
